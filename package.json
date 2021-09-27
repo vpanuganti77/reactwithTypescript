@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "@types/react-table@7.7.2",
+      "D:\\ReactApp\\copyofVCX360"
+    ]
+  ],
+  "_from": "@types/react-table@7.7.2",
+  "_id": "@types/react-table@7.7.2",
+  "_inBundle": false,
+  "_integrity": "sha512-NwB78t3YV5pZ1NK3m2vylb/d0DKVyWH4y4GMCtlE4tg2n5ENM4ejzKnT46YKuqG2cPjWc+PIxuRVMd5OYX1z4A==",
+  "_location": "/@types/react-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/react-table@7.7.2",
+    "name": "@types/react-table",
+    "escapedName": "@types%2freact-table",
+    "scope": "@types",
+    "rawSpec": "7.7.2",
+    "saveSpec": null,
+    "fetchSpec": "7.7.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-table/-/react-table-7.7.2.tgz",
+  "_spec": "7.7.2",
+  "_where": "D:\\ReactApp\\copyofVCX360",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "contributors": [
+    {
+      "name": "Guy Gascoigne-Piggford",
+      "url": "https://github.com/ggascoigne"
+    },
+    {
+      "name": "Michael Stramel",
+      "url": "https://github.com/stramel"
+    },
+    {
+      "name": "Rohit Garg",
+      "url": "https://github.com/gargroh"
+    },
+    {
+      "name": "Jason Clark",
+      "url": "https://github.com/riceboyler"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for react-table",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-table",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-table",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/react-table"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.6",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "ebe60a16cfa6c02fedb925b874eb77d9b16b07aa045b678378ba5e822236949f",
+  "version": "7.7.2"
+}
